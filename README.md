@@ -18,3 +18,5 @@ Here, c is defined as the carrying capacity, therefore c = 65 and a and b are fo
  $$(0,\frac{c}{1+a}); \space (\frac{ln(a)}{b}, \frac{c}{2})$$
 
 Primary Model:  $$P(t) = \frac{65}{1+23e^{-2.1t}}$$
+
+![alt text](https://github.com/cotaffe/Coastal-Sage-Scrub-Postfire-Shrub-Cover-Mathematical-Model/blob/main/CSSmodel.png?raw=true)
